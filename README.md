@@ -74,13 +74,6 @@ Feel free to open issues or pull requests if you find bugs or want to enhance th
 
 ## 👨‍💻 Author
 
-**Sarthak Sachdev**
-
-- GitHub: [@Sarthak-0-Sach](https://github.com/Sarthak-0-Sach)
-- LinkedIn: [Sarthak Sachdev](https://www.linkedin.com/in/sarthak2004/)
-- Twitter: [@sarthak_sach69](https://twitter.com/sarthak_sach69)
-
-## 🙌 Acknowledgments
 
 - Special thanks to CampusX youtube channel for guidance and programming support.
 
