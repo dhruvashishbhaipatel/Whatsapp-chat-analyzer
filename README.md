@@ -31,8 +31,8 @@ Welcome to the **WhatsApp Chat Analyzer**! This project is a Streamlit-based web
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/SartHak-0-Sach/WhatsApp_chat_analyzer_NLP_project.git
-   cd WhatsApp_chat_analyzer_NLP_project
+
+https://github.com/dhruvashishbhaipatel/Whatsapp-chat-analyzer.git)
    ```
 
 2. **Install dependencies**:
