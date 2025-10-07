@@ -72,7 +72,7 @@ Welcome to the **WhatsApp Chat Analyzer**! This project is a Streamlit-based web
 
 Feel free to open issues or pull requests if you find bugs or want to enhance the app. Contributions are welcome!
 
-## 👨‍💻 Author
+
 
 
 - Special thanks to CampusX youtube channel for guidance and programming support.
